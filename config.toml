@@ -1,0 +1,33 @@
+baseurl = "https://about.knightofzero.com"
+#title = "About page Jarne"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+#disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  # author = "Jarne Amerlinck"
+  # description = "Page about Jarne Amerlinck"
+  keywords = "developer,professional,cv"
+  gravatar = "jarneamerlinck@pm.me"
+
+  favicon = "/img/favicon-32x32.png"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
